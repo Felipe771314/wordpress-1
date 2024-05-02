@@ -15,15 +15,15 @@ var emptyObject = Object.freeze({});
 
 // these helpers produces better vm code in JS engines due to their
 // explicitness and function inlining
-async function isUndef (v) {
+ function isUndef (v) {
   return v === undefined || v === null
 } 
 
-async function isDef (v) {
+ function isDef (v) {
   return v !== undefined && v !== null
 }
 
- async function isTrue (v) {
+  function isTrue (v) {
   return v === true
 }
 
