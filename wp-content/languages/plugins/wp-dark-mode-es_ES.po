@@ -1,0 +1,75 @@
+# Translation of Plugins - WP Dark Mode &#8211; WordPress Dark Mode Plugin for Improved Accessibility, Dark Theme, Night Mode, and Social Sharing - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Dark Mode &#8211; WordPress Dark Mode Plugin for Improved Accessibility, Dark Theme, Night Mode, and Social Sharing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-20 17:57:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Dark Mode &#8211; WordPress Dark Mode Plugin for Improved Accessibility, Dark Theme, Night Mode, and Social Sharing - Stable (latest release)\n"
+
+#. Description of the plugin
+#: plugin.php
+msgid "WP Dark Mode automatically enables a stunning dark mode of your website based on user's operating system. Supports macOS, Windows, Android & iOS."
+msgstr "WP Dark Mode actica automáticamente un impresionante modo oscuro de tu web según el sistema operativo del usuario. Es compatible con macOS, Windows, Android y iOS."
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:172
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:168
+msgid "Center"
+msgstr "Centro"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:164
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:109
+msgid "Switch Style"
+msgstr "Estilo del conmutador"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:160
+msgid "Alignment"
+msgstr "Alineación"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:46
+#: includes/modules/elementor/widgets/class-elementor-widget.php:100
+msgid "Dark Mode Switch"
+msgstr "Conmutador del modo oscuro"
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://wppool.dev/wp-dark-mode"
+msgstr "https://wppool.dev/wp-dark-mode"
+
+#: includes/admin/class-admin-install.php:232
+#: includes/admin/class-admin-menus.php:59
+#: includes/admin/class-admin-menus.php:60
+#: includes/admin/class-admin-menus.php:71
+#: includes/admin/class-admin-menus.php:72
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-admin-menus.php:45
+msgid "WP Dark Mode Settings"
+msgstr "Ajustes de WP Dark Mode"
+
+#. Author of the plugin
+#: plugin.php
+msgid "WPPOOL"
+msgstr "WPPOOL"
+
+#. Plugin Name of the plugin
+#: plugin.php includes/admin/class-admin-menus.php:46
+#: includes/admin/class-admin-notices.php:86
+msgid "WP Dark Mode"
+msgstr "WP Dark Mode"
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://wppool.dev"
+msgstr "https://wppool.dev"

@@ -1,0 +1,9 @@
+2024-04-03T17:58:06+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on null in /home/c1392912/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:312
+Stack trace:
+#0 /home/c1392912/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(185): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(8, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/c1392912/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/c1392912/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/c1392912/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home/c1392912/publi en /home/c1392912/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php en la línea 312
+

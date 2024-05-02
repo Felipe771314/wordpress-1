@@ -1,0 +1,6 @@
+2024-04-24T12:25:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 98304 bytes) en /home/c1392912/public_html/wp-includes/class-wpdb.php en la línea 2349
+
+2024-04-24T19:20:28+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes) en /home/c1392912/public_html/wp-includes/class-wpdb.php en la línea 2320
+
+2024-04-24T19:21:00+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) en /home/c1392912/public_html/wp-includes/class-wpdb.php en la línea 2349
+
